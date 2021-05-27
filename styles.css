@@ -1,0 +1,19 @@
+/* hero section */
+.hero{
+  margin-top: 1em;
+}
+.hero_img{
+   width:25%;
+    height:25%;
+  /* border-radius: 40%; */
+  margin-left: 1em;
+  margin-top: 5em;
+
+}
+/* my skills */
+.html{
+  color:#f4470b;
+}
+.bootstrap{
+  color:#72147e
+}
